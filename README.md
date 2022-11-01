@@ -5,7 +5,9 @@
 $ pip install -r requirements.txt
 ```
 2. Move to the project directory
+```
 cd YOUR_PROJECT_DIRECTORY_PATH/
+```
 
 2. Run the development server:
 ```
