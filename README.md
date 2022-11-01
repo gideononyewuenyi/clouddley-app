@@ -11,4 +11,4 @@ $ export FLASK_APP=app.py
 $ export FLASK_ENV=development 
 $ python3 app.py
 ```
-3. Navigate to the web page: http://0.0.0.0:8080/
+3. Navigate to the web page: http://127.0.0.1:8080/
